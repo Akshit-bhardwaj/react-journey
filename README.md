@@ -57,12 +57,12 @@ Typical assets stored here include:
 - Static files like "robots.txt"
 
 Example:
-
+```
 public
  ├── images
  ├── videos
  └── fonts
-
+```
 Files placed here are served directly by the browser.
 
 ---
@@ -74,12 +74,12 @@ The src folder contains the main source code of the React application.
 This is where all React components, logic, styles, and application structure are written.
 
 Example structure:
-
+```
 src
  ├── components
  ├── App.jsx
  └── main.jsx
-
+```
 ---
 
 3. App.jsx
@@ -159,10 +159,10 @@ Example components:
 - Forms
 
 Example structure:
-
+```
 components
  └── App.jsx
-
+```
 These components are imported and used inside "App.jsx".
 
 ---
@@ -204,7 +204,7 @@ This folder should never be edited manually.
 Application Flow
 
 The application runs in the following order:
-
+```
 index.html
    ↓
 main.jsx
@@ -212,7 +212,7 @@ main.jsx
 App.jsx
    ↓
 Components
-
+```
 1. "index.html" provides the root element
 2. "main.jsx" connects React to the DOM
 3. "App.jsx" acts as the root React component
