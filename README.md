@@ -16,7 +16,8 @@ This project was created to understand:
 
 ---
 
-Project Architecture
+## Project Architecture
+```
 react-basic-architecture
 │
 ├── node_modules
@@ -38,6 +39,7 @@ react-basic-architecture
 ├── package-lock.json
 └── vite.config.js
 
+```
 ---
 
 Folder and File Explanation
