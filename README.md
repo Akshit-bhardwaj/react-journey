@@ -17,16 +17,21 @@ This project was created to understand:
 ---
 
 Project Architecture
-
 react-basic-architecture
 │
 ├── node_modules
+│
 ├── public
+│   ├── images
+│   ├── videos
+│   └── fonts
+│
 ├── src
+│   ├── components
+│   │   └── App.jsx (custom component example)
+│   │
 │   ├── App.jsx
-│   ├── main.jsx
-│   └── components
-│        └── App.jsx (custom component example)
+│   └── main.jsx
 │
 ├── index.html
 ├── package.json
