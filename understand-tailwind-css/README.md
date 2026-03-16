@@ -1,4 +1,4 @@
-# 🚀 Tailwind CSS Landing Page (React)
+# Tailwind CSS Landing Page (React)
 
 This is a **simple landing page built using React and Tailwind CSS**.
 The purpose of this project is to understand how **Tailwind CSS utility classes work in React** and how we can quickly build responsive UI components.
@@ -38,29 +38,29 @@ A simple landing page layout with:
 
 ---
 
-## ⚙️ Installation & Setup
+##  Installation & Setup
 
 Follow these steps to run the project locally.
 
-### 1️⃣ Clone the repository
+### 1️. Clone the repository
 
 ```bash
 git clone  https://github.com/Akshit-bhardwaj/react-journey.git
 ```
 
-### 2️⃣ Go to the project folder
+### 2️. Go to the project folder
 
 ```bash
 cd your-repo-name
 ```
 
-### 3️⃣ Install dependencies
+### 3️. Install dependencies
 
 ```bash
 npm install
 ```
 
-### 4️⃣ Run the development server
+### 4️. Run the development server
 
 ```bash
 npm run dev
@@ -102,4 +102,3 @@ This project was built as a **practice project** to understand how Tailwind CSS 
 
 **Akshit Bhardwaj**
 
-If you like this project, feel free to ⭐ the repository.
