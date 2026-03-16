@@ -1,16 +1,105 @@
-# React + Vite
+# 🚀 Tailwind CSS Landing Page (React)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a **simple landing page built using React and Tailwind CSS**.
+The purpose of this project is to understand how **Tailwind CSS utility classes work in React** and how we can quickly build responsive UI components.
 
-Currently, two official plugins are available:
+The project contains a **basic responsive landing page layout** with a navigation bar, hero section, and call-to-action button.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## React Compiler
+## Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+* Built with **React**
+* Styled using **Tailwind CSS**
+* Simple and clean **landing page UI**
+* Responsive layout
+* Navigation bar with links (Home, About, Contact, Login)
+* Hero section with heading and CTA button
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+##  Technologies Used
+
+* React.js
+* Tailwind CSS
+* HTML5
+* JavaScript (ES6)
+
+---
+
+##  Preview
+
+A simple landing page layout with:
+
+* Navigation bar
+* Hero section
+* Call-to-action button
+* Image section
+
+---
+
+## ⚙️ Installation & Setup
+
+Follow these steps to run the project locally.
+
+### 1️⃣ Clone the repository
+
+```bash
+git clone  https://github.com/Akshit-bhardwaj/react-journey.git
+```
+
+### 2️⃣ Go to the project folder
+
+```bash
+cd your-repo-name
+```
+
+### 3️⃣ Install dependencies
+
+```bash
+npm install
+```
+
+### 4️⃣ Run the development server
+
+```bash
+npm run dev
+```
+
+or (if using CRA)
+
+```bash
+npm start
+```
+
+Now open your browser and visit:
+
+```
+http://localhost:3000
+```
+
+---
+
+##  What I Learned
+
+Through this project I practiced:
+
+* Using **Tailwind CSS utility classes**
+* Creating **responsive layouts**
+* Structuring components in **React**
+* Styling UI quickly without writing custom CSS
+
+---
+
+##  Purpose of the Project
+
+This project was built as a **practice project** to understand how Tailwind CSS works with React and how quickly we can design modern UI using utility-first CSS.
+
+---
+
+
+##  Author
+
+**Akshit Bhardwaj**
+
+If you like this project, feel free to ⭐ the repository.
